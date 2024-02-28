@@ -1,0 +1,14 @@
+:root{
+    background-image: linear-gradient(red, orange, yellow, green, blue, purple);
+    overflow: hidden;
+}
+
+body{
+    background: url(img.img.img.img.img.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+    width: 100vw;
+    height: 100vh;
+}
